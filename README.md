@@ -2,8 +2,8 @@
 
 ## TODO
 
-- [ ] Make it deploy (vercel)
-- [ ] Scaffold basic ui with moc data
+- [x] Make it deploy (vercel)
+- [x] Scaffold basic ui with moc data
 - [ ] Actually set up a database (vercel postgres)
 - [ ] Attach database to UI
 - [ ] Add authentication (w/ clerk)
